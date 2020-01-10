@@ -33,10 +33,10 @@ export default function Banner() {
         target="_blank"
         rel="noopener noreferrer"
       >
-        Share on Twitter
+        Share on Twitter!
       </a>
       <div className={styles.motto}>
-        Cue the emoji extravaganza <PurpleHeart className={styles.heart} />
+        Cue the emoji extravaganza!! <PurpleHeart className={styles.heart} />
       </div>
     </div>
   );
