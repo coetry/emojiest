@@ -36,7 +36,7 @@ export default function Banner() {
         Share on Twitter!
       </a>
       <div className={styles.motto}>
-        Cue the emoji extravaganza!! <PurpleHeart className={styles.heart} />
+        Yooooooooooo! <PurpleHeart className={styles.heart} />
       </div>
     </div>
   );
